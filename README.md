@@ -1,7 +1,9 @@
 ## Who is Jonahgeek? 🤨
 
 \
-Jonathan Mwebaze (Jonahgeek) is a javascript Enthuthist, an open-source contributor, and a graphics designer. Jonah has managed to develop a couple of websites, which he can freely share with a client. He also loves to share with other developers through [blog posts](https://jonahgeek.tech/), articles, and speaking engagements at user groups, and code camps. In his day job, Jonah codes in [reactJS](https://reactjs.org/) and [nodeJS](https://nodejs.org).
+Jonathan Mwebaze (Jonahgeek) is a human being, bug 🐛 slayer, UI/UX & javascript ninja who's extremely interested in bringing people's dreams into realities by using his extraordinary abilities of Code & Design. He also loves to share with other developers on [twitter](https://twitter.com/jonahgeek) & through [writing some blog posts](https://jonahgeek.tech/).
+
+In his day job, Jonah codes MERN & PERN stack apps because that's literally all he's good at when it comes to code and also does some bit of graphics design. 
 
 You can find me on the internet 😉;
 
@@ -9,3 +11,4 @@ You can find me on the internet 😉;
 - Twitter: [@jonahgeek](https://twitter.com/jonahgeek)
 - Github: [@jonahgeek](https://github.com/jonahgeek)
 - LinkedIn: [@jonahgeek](https://linkedin.com/in/jonahgeek)
+- Dribbble: [@jonahgeek] (https://dribbble.com/jonahgeek)
