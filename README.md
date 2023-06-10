@@ -20,7 +20,7 @@ You can find me on the internet 😉;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <p></p>  
-    [![committers.top badge](https://user-badge.committers.top/uganda_private/jonahgeek.svg)](https://user-badge.committers.top/uganda_private/jonahgeek)
+   
   </div>
 
 ---
