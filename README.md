@@ -1,4 +1,4 @@
-## Who's Jonathan? 🤨
+## Who's Jonathan? 🤨 [![committers.top badge](https://user-badge.committers.top/uganda_private/jonahgeek.svg)](https://user-badge.committers.top/uganda_private/JONAHGEEK)
 
 \
 Jonathan Mwebaze is a human being, bug 🐛 slayer, UI/UX & javascript ninja who's extremely interested in bringing people's dreams into realities by using his extraordinary abilities of Code & Design. He also loves to share with other developers on [twitter](https://twitter.com/jonahgeek) & through [writing some posts](https://www.getrevue.co/app/issues).
