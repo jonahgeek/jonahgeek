@@ -7,7 +7,7 @@ In his day job, Jonah codes MERN stack apps since that's literally all he's good
 
 You can find me on the internet 😉;
 
-- Website: https://about.me/jonahgeek
+- Website: https://mwebaze.com
 - Twitter: [@jonahgeek](https://twitter.com/jonahgeek)
 - Github: [@jonahgeek](https://github.com/jonahgeek)
 - LinkedIn: [@jonahgeek](https://linkedin.com/in/jonahgeek)
