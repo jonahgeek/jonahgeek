@@ -1,39 +1,74 @@
-## Who's Jonathan? 🤨 [![committers.top badge](https://user-badge.committers.top/uganda_private/jonahgeek.svg)](https://user-badge.committers.top/uganda_private/JONAHGEEK)
+# 👋🏽 Who's Jonathan?
 
-\
-Jonathan Mwebaze is a human being, bug 🐛 slayer, UI/UX & javascript ninja who's extremely interested in bringing people's dreams into realities by using his extraordinary abilities of Code & Design. He also loves to share with other developers on [twitter](https://twitter.com/jonahgeek) & through [writing some posts](https://www.getrevue.co/app/issues).
-
-In his day job, Jonah codes MERN stack apps since that's literally all he's good at. He also does a bit of graphics & UI design.
-
-You can find me on the internet 😉;
-
-- Website: https://mwebaze.com
-- Twitter: [@jonahgeek](https://twitter.com/jonahgeek)
-- Github: [@jonahgeek](https://github.com/jonahgeek)
-- LinkedIn: [@jonahgeek](https://linkedin.com/in/jonahgeek)
-- Dribbble: [@jonahgeek] (https://dribbble.com/jonahgeek)
-
-<div align='left'>
-    <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-    <p></p>  
-   
-  </div>
+[![committers.top badge](https://user-badge.committers.top/uganda_private/jonahgeek.svg)](https://user-badge.committers.top/uganda_private/jonahgeek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=Firefox&logoColor=white)](https://mwebaze.com)
 
 ---
 
-### My GitHub Stats
+### 👨🏽‍💻 About Me
 
-![Jonahgeek's gitHub stats](https://github-readme-stats.vercel.app/api?username=jonahgeek&show_icons=true&theme=radical)
+Hi, I'm **Jonathan Mwebaze** — aka **@jonahgeek**
 
-![jonahgeek's top-langs used](https://github-readme-stats.vercel.app/api/top-langs?username=jonahgeek&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
+- 🚀 Full-stack developer and UI/UX designer
+- 🔧 Tech stack: JavaScript, TypeScript, React, Node.js, Express, MongoDB
+- 🎨 Design-focused engineering — building functional and beautiful experiences
+- 📦 Creative, internal tools, and open-source utilities
 
-### Profile Visit Count
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jonahgeek.jonahgeek)
-<br>
+### 📌 Now
+
+🧠 Currently working on:
+
+- [wire24.co](https://wire24.co)
+---
+
+### 📦 Tech Toolbox
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</div>
+
+---
+
+### 📌 Pinned Repositories
+
+[![reverse-geocode-lite](https://github-readme-stats.vercel.app/api/pin/?username=jonahgeek&repo=reverse-geocode-lite&theme=radical)](https://github.com/jonahgeek/reverse-geocode-lite)
+[![sms-validator-africastalking](https://github-readme-stats.vercel.app/api/pin/?username=jonahgeek&repo=sms-validator-africastalking&theme=radical)](https://github.com/jonahgeek/sms-validator-africastalking)
+[![react-deep-link](https://github-readme-stats.vercel.app/api/pin/?username=jonahgeek&repo=react-deep-link&theme=radical)](https://github.com/jonahgeek/react-deep-link)
+[![srid](https://github-readme-stats.vercel.app/api/pin/?username=jonahgeek&repo=srid&theme=radical)](https://github.com/jonahgeek/srid)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Jonahgeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonahgeek&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgeek&layout=compact&langs_count=10&theme=radical)
 
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jonahgeek&theme=radical&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Visitor Counter
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jonahgeek.jonahgeek)
+
+---
+
+> ⚡ *Available for freelance/remote work. Let's build something awesome.*  
+> 📬 [jonahgeek@gmail.com](mailto:jonahgeek@gmail.com)
