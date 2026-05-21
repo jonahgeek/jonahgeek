@@ -13,6 +13,7 @@ Hi, I'm **Jonathan Mwebaze** — aka **@jonahgeek**
 - 🔧 Tech stack: JavaScript, TypeScript, React, Node.js, Express, MongoDB
 - 🎨 Design-focused engineering — building functional and beautiful experiences
 - 📦 Creative, internal tools, and open-source utilities
+- ☕ 🍃 Coffee Farmer
 
 ---
 
@@ -20,7 +21,7 @@ Hi, I'm **Jonathan Mwebaze** — aka **@jonahgeek**
 
 🧠 Currently working on:
 
-- [wire24.co](https://wire24.co)
+- Fundo, a social agriculture app.
 ---
 
 ### 📦 Tech Toolbox
